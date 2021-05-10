@@ -1,5 +1,11 @@
 # Lab7Web
 
+Nama : jaja nurjaman
+
+Nim  : 311910083
+
+Kelas : TI.19.B1
+
 PHP Dasar
 Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat kode seperti berikut.
 
