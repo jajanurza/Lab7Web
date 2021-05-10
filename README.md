@@ -45,6 +45,10 @@ Operator berfungsi untuk berinteraksi dengan variabel, seperti misalnya menambah
  
  ![image](https://user-images.githubusercontent.com/81528179/117699327-e9561e00-b1ee-11eb-8ace-8a8ab9cc9810.png)
  
+ ![image](https://user-images.githubusercontent.com/81528179/117699834-7a2cf980-b1ef-11eb-83bd-ec92223e5c20.png)
+
+ 
  Kondisi SWITCH CASE adalah percabangan kode program dimana kita membandingkan isi sebuah variabel dengan beberapa nilai.
+ 
 
 
